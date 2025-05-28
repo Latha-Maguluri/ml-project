@@ -1,1 +1,1 @@
-## This the project that is related to the student performance.
+## This project is related to the student performance.
